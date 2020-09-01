@@ -1,0 +1,4 @@
+A coleta dos dados é realizada pelo Grupo de Trabalho Informação em Saúde e é um subgrupo do Grupo de Trabalho Multidisciplinar para o enfrentamento da COVID 19 (GT COVID 19 UFRJ MACAÉ).
+Os dados utilizados são coletados diariamente no Painel Coronavírus do Ministério da Saúde e nos boletins e informes publicados nos sites e nas páginas oficiais do Facebook e Instagram das prefeituras. Os dados são tabulados de acordo com a data de publicação dos Boletins e informes.
+Os dados sobre o isolamento são gentilmente fornecidos pela empresa InLoco (www.inloco.com.br).
+Os dados de população de cada cidade, utilizados para calcular as Taxas de Incidência e Letalidade foram retirados do site do IBGE, e referem-se à população estimada para 2019.

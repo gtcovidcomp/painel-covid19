@@ -1,0 +1,37 @@
+.links {
+	font-weight: 300;
+}
+.links > a {
+	color: white;
+	padding: .1em;
+	text-align: center;
+	text-decoration: none;
+	background-color: var(--text-color);
+	background-image: linear-gradient(to top,var(--text-color), var(--background-color));
+	transition: all .5s;
+	margin-right: 0.1em;
+	border-radius: 5px;
+}
+.links > a:hover {
+	background: var(--text-color);
+	font-weight: 500;
+}
+
+/* The Magic */
+#footer {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	overflow: auto;
+	border-style: outset;
+}
+.links {
+	display: grid;
+	grid-template-rows: repeat(var(--items), 1fr);
+	position: relative;
+	align-content: end;
+	align-self:end;
+	align-items: end;
+    grid-area:links;
+}
